@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Diariku",
+    "link": "https://diariku.netlify.app",
+    "desc": "Online diary with fake authentication",
+    "img": "https://kvdsoczlbdxykrqjmxfk.supabase.co/storage/v1/object/sign/project%20images/p1.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0IGltYWdlcy9wMS5wbmciLCJpYXQiOjE2ODQ5NzU5MTcsImV4cCI6MTAwMDAwMDAxNjg0OTc1OTIwfQ.ZS7y9kTRDCKIFTqeOkZ-Hb-JjrUTHuE5TalKCXiITtw&t=2023-05-25T00%3A51%3A56.669Z"
+  },
+  {
+    "name": "Discussin",
+    "link": "https://discussin.netlify.app",
+    "desc": "Landing page and admin page for Discussin",
+    "img": "https://kvdsoczlbdxykrqjmxfk.supabase.co/storage/v1/object/sign/project%20images/p2.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0IGltYWdlcy9wMi5wbmciLCJpYXQiOjE2ODQ5NzcyOTMsImV4cCI6MTAwMDAwMDE2ODQ5NzcyOTJ9.vLuZG31P1OqS5b1boYAKHvA0iJWb8B3FWD12RdLL55Y&t=2023-05-25T01%3A14%3A53.134Z"
+  },
+  {
+    "name": "Slicing Design",
+    "link": "https://hacktiv8-project-3.netlify.app/",
+    "desc": "1/4 final assignment in Hacktiv8 study independent class",
+    "img": "https://kvdsoczlbdxykrqjmxfk.supabase.co/storage/v1/object/sign/project%20images/p6.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0IGltYWdlcy9wNi5wbmciLCJpYXQiOjE2ODQ5ODEwMTEsImV4cCI6MTAwMDAwMDAwMDE2ODQ5ODIwMDB9.RFQH2v5L3-LLd8rxOu4ICBKOAuhlx-8JN6C0a4QupaY&t=2023-05-25T02%3A16%3A51.127Z"
+  }
+]

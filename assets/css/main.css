@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+@layer base {
+  h1 {
+    @apply text-3xl font-bold;
+  }
+  h2 {
+    @apply text-2xl font-bold;
+  }
+}
+
+.hamburger-line {
+  @apply w-[25px] h-[2px] bg-black  block;
+}
+
+.show-nav > span:nth-child(1) {
+  @apply rotate-[43deg];
+}
+
+.show-nav > span:nth-child(2) {
+  @apply scale-0;
+}
+.show-nav > span:nth-child(3) {
+  @apply -rotate-[43deg];
+}
+
+.nav-home li:last-child {
+  @apply bg-slate-700 text-white hover:bg-slate-400
+}
+
+.nav-home li:last-child a{
+  @apply  md:px-5 py-1
+}
